@@ -29,13 +29,17 @@ Windows 11 Activator for Pro, Workstation, Home, Education, Enterprise, Core edi
  - Open the ```win11productkeys.txt```file in your text editor and copy the respective edition key for you windows 11 edition
 
 #### - ACTIVATING WINDOWS 11 PRO EDITION
- - using the build binary file
-``` windows-11-activator activate --key=WNMTR-4C88C-JK8YV-HQ7T2-76DF9```
+ - using the build binary file in the dist folder (recommended)
+    - open cmd terminal as administrator
+    - cd into the ```dist``` directory
+    - run the command ``` windows-11-activator activate --key=WNMTR-4C88C-JK8YV-HQ7T2-76DF9```
 
 or
-
+Make sure you have golang installed (for developers)
 ```go run main.go activate --key=WNMTR-4C88C-JK8YV-HQ7T2-76DF9```
 
+
+#### - RESULT OUTPUT
 ```
     Kindly take a cofee while your your Windows 11 Pro is activated
 
