@@ -11,7 +11,7 @@
 
 Microsoft just made the news by announcing their new operating system, which causes a major craze among the fans. Well! Do you want to get the Windows 11 activator if you’re one of them and have already installed it? This is what this essay is all about if that is the case.
 
-Windows 11 Activator for Pro, Workstation, Home, Education, Enterprise, Core editions 2023. This application alllows you to activate your Windows 11 Operating System for FREE.
+Windows 11 Activator for Pro, Workstation, Home, Education, Enterprise, Core editions 2023. This application allows you to activate your Windows 11 Operating System for FREE.
 
 
 #### - COMMANDS
