@@ -13,7 +13,7 @@ Microsoft just made the news by announcing their new operating system, which cau
 
 Windows 11 Activator for Pro, Workstation, Home, Education, Enterprise, Core editions 2023. This application allows you to activate your Windows 11 Operating System for FREE.
 
-#### - Private Key Management Service(KMS) server
+#### Private Key Management Service(KMS) server
 
 This windows 11 activator uses A KMS server.
 
@@ -23,7 +23,7 @@ KMS server is used to help people on low incomes to get a 180-day Windows/Office
 
 #Your support is helping me keep my servers running everyday!
 
-### - Is this Activator malicious?
+### Is this Activator malicious?
 This windows 11 activator is not a malware or contains any maliciious code
 that may cause harm to your system. The source code is available for use and
 it's opensource.
